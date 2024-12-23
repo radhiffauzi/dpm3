@@ -1,0 +1,73 @@
+export const dummyRecipes = [
+    {
+      id: '1',
+      name: 'Arduino uno Dip',
+      image: 'https://down-id.img.susercontent.com/file/84add08e05a446305722eb926c759061.webp',
+      ingredients: ['Arduino UNO R3 DIP adalah salah satu papan mikrokontroler yang menggunakan chip ATmega328P sebagai otaknya. Papan ini bekerja pada tegangan operasional 5V dan membutuhkan tegangan input antara 7V hingga 12V untuk bekerja optimal, meskipun dapat mentolerir hingga 6V - 20V sebagai batas maksimal. Dengan 14 pin input/output digital (6 di antaranya mendukung fitur PWM) dan 6 pin input analog, Arduino UNO R3 sangat fleksibel untuk berbagai aplikasi elektronik. Setiap pin I/O dapat mengalirkan arus hingga 40mA, menjadikannya cukup kuat untuk mengontrol LED, motor kecil, atau modul lainnya..'],
+      steps: [],
+    },
+    {
+      id: '2',
+      name: 'Light Bulb',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98y-lukinwzfd76l13.webp',
+      ingredients: ['LED Light Bulb biasanya beroperasi pada tegangan 220V atau 110V, tergantung pada wilayah penggunaannya. Konsumsi daya untuk lampu LED ini sangat rendah dibandingkan lampu pijar, misalnya, lampu LED dengan daya 9W setara dengan lampu pijar 60W dalam hal pencahayaan. '],
+      steps: [],
+    },
+    {
+      id: '3',
+      name: 'Smart Thermostat',
+      image: 'https://down-id.img.susercontent.com/file/6125c2dc473404900ffce0067f6a3550.webp',  
+      ingredients: ['Thermostat pintar yang memungkinkan pengaturan suhu rumah secara jarak jauh melalui aplikasi.'],
+      steps: [],
+    },
+    {
+      id: '4',
+      name: 'Smart Security Camera',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7qul7-lfpg7a1uwgzl16.webp', 
+      ingredients: ['Kamera keamanan pintar yang dapat memantau rumah Anda secara real-time dan memberi peringatan jika ada aktivitas mencurigakan.'],
+      steps: [],
+    },
+    {
+      id: '5',
+      name: 'Smart Door Lock',
+      image: 'https://down-id.img.susercontent.com/file/id-11134201-23030-ddc1uawwejovb0@resize_w450_nl.webp',
+      ingredients: ['Kunci pintar yang memungkinkan Anda untuk membuka atau mengunci pintu rumah Anda secara jarak jauh melalui aplikasi.'],
+      steps: [],
+    },
+    {
+      id: '6',
+      name: 'Smart Plugs',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98z-lr6ox1i8qv5g76.webp',
+      ingredients: ['Stopkontak pintar yang memungkinkan Anda mengontrol peralatan listrik dari jarak jauh.'],
+      steps: [],
+    },
+    {
+      id: '7',
+      name: 'Smart Speaker',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r990-lwe4wrtx46y26c.webp', 
+      ingredients: ['Speaker pintar seperti Amazon Echo atau Google Home yang dapat mengontrol berbagai perangkat IoT di rumah Anda melalui perintah suara.'],
+      steps: [],
+    },
+    {
+      id: '8',
+      name: 'Smart Smoke Detector',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98q-lryaw7owcqpy46.webp',
+      ingredients: ['Detektor asap pintar yang dapat memberi peringatan langsung ke perangkat pintar lainnya dan aplikasi smartphone Anda.'],
+      steps: [],
+    },
+    {
+      id: '9',
+      name: ' Smart Refrigerator',
+      image: 'https://down-id.img.susercontent.com/file/sg-11134201-7qvfk-li15hsyk6iw93e@resize_w450_nl.webp',
+      ingredients: ['Lemari es pintar yang dapat mengirimkan peringatan jika Anda kehabisan bahan makanan atau jika ada masalah dengan suhu di dalamnya.'],
+      steps: [],
+    },
+    {
+      id: '10',
+      name: 'Smart Dashcam',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98p-lz011cd6i494b8.webp',
+      ingredients: ['Smart Dashcam adalah kamera dasbor yang dilengkapi dengan berbagai fitur canggih untuk meningkatkan keamanan dan kenyamanan saat berkendara.'],
+      steps: [],
+    },
+  ];
+  
